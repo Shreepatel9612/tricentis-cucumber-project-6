@@ -1,0 +1,141 @@
+2024-12-14 12:12:733 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8ed97ee0d1f809a909035520d8dabab9)] -> link text: Log in]
+2024-12-14 12:12:786 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (8ed97ee0d1f809a909035520d8dabab9)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 13:12:366 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (e063fcd316efb0beea1f4cf134c4c141)] -> link text: Log in]
+2024-12-14 13:12:427 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (e063fcd316efb0beea1f4cf134c4c141)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 13:12:936 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (b5929546bca502ccd723295b3dd342a2)] -> link text: Log in]
+2024-12-14 13:12:165 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (e28e5f8afb63e07137d6ea292ea7c41e)] -> link text: Log in]
+2024-12-14 13:12:238 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (e28e5f8afb63e07137d6ea292ea7c41e)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 13:12:540 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (656cf45959487a444a69d27209667569)] -> link text: Log in]
+2024-12-14 13:12:408 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (7d6656f8abe3d80c108f3e2c156ee4e4)] -> link text: Log in]
+2024-12-14 13:12:486 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (7d6656f8abe3d80c108f3e2c156ee4e4)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 13:12:197 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (92f0482255cf20fc823d24a405a71067)] -> link text: Log in]
+2024-12-14 13:12:253 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (1267ed94725d7a78115d89bdae010e20)] -> link text: Log in]
+2024-12-14 13:12:198 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (d5c0a9be951bf168d9718adddbecf90b)] -> link text: Log in]
+2024-12-14 13:12:801 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (85bf94e18f1f7b85d43fbfd3ba38843e)] -> link text: Log in]
+2024-12-14 14:12:934 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (5745a0e884aff8ae8f7300cd2c0243a2)] -> link text: Log in]
+2024-12-14 14:12:10 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (5745a0e884aff8ae8f7300cd2c0243a2)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:377 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8057a07c410001fe352dec1338cc788c)] -> link text: Log in]
+2024-12-14 14:12:538 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (db1a94858683f9392784075f9d65aa71)] -> link text: Log in]
+2024-12-14 14:12:44 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (a877656f6907607a19a2ae7fa3b35b8f)] -> link text: Log in]
+2024-12-14 14:12:305 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (7e8797b717a236c14ac6137af62464f9)] -> link text: Log in]
+2024-12-14 14:12:874 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (117ba8135f558f8d9ac3744479dd79bd)] -> link text: Log in]
+2024-12-14 14:12:933 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (117ba8135f558f8d9ac3744479dd79bd)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:197 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (33bb9a2ee7ec0bffcef3fe8e4458f609)] -> link text: Log in]
+2024-12-14 14:12:265 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (33bb9a2ee7ec0bffcef3fe8e4458f609)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:643 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (dc95c3c62f6457126c974c4a0fa91606)] -> link text: Log in]
+2024-12-14 14:12:545 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (01cac0cbdee90c3686cc04739358fa1d)] -> link text: Log in]
+2024-12-14 14:12:628 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (12cf8b5f5e51f5867f866d4b95e57414)] -> link text: Log in]
+2024-12-14 14:12:490 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8d6723579ed65b07ae1a667b27816b2b)] -> link text: Log in]
+2024-12-14 14:12:954 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (81b1b9ebcbacec9841582df25ee3966d)] -> link text: Log in]
+2024-12-14 14:12:231 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (9cbe5cd241a8556b1a75bc22a44c58c0)] -> link text: Log in]
+2024-12-14 14:12:614 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (afcdc2136a06b4de318aec238f5a2a51)] -> link text: Log in]
+2024-12-14 14:12:995 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (8fe503c11e62d0d5758e7e367cb93220)] -> link text: Log in]
+2024-12-14 14:12:54 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (8fe503c11e62d0d5758e7e367cb93220)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:805 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (3a2b05c9b4ee7a32592076c8104856d8)] -> link text: Log in]
+2024-12-14 14:12:948 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (010354cf09345c2c5495a108fd393a57)] -> link text: Log in]
+2024-12-14 14:12:765 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (12927ff9c767f89075bc83f7ab060291)] -> link text: Log in]
+2024-12-14 14:12:495 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (5a21aac58e36446a2ab9ba8cedcbaea4)] -> link text: Log in]
+2024-12-14 14:12:912 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2024-12-14 14:12:913 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2024-12-14 14:12:794 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 452 fonts
+2024-12-14 14:12:576 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (c73923029fefc8d519178d8480a12291)] -> link text: Log in]
+2024-12-14 14:12:641 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (c73923029fefc8d519178d8480a12291)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:798 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (ccfa7e2283da07e7dd332a6d2d131da1)] -> link text: Log in]
+2024-12-14 14:12:524 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (0493b1718844bb8dd882f21e63f148a0)] -> link text: Log in]
+2024-12-14 14:12:644 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (aa8ae405311fa640761079c1b31bd7b0)] -> link text: Log in]
+2024-12-14 14:12:498 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (21abd80f854693b65283909cff9b2929)] -> link text: Log in]
+2024-12-14 14:12:721 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (754417e681cefc888c6cc380b1ebddf0)] -> link text: Log in]
+2024-12-14 14:12:851 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (754417e681cefc888c6cc380b1ebddf0)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 14:12:680 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (caf625af231c5cadcdafdcee1f0c4135)] -> link text: Log in]
+2024-12-14 14:12:41 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (9a7db11bf9c0e7e05aa56d08c5eed807)] -> link text: Log in]
+2024-12-14 14:12:324 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (9ea299a0a76c37f67497da603181075d)] -> link text: Log in]
+2024-12-14 14:12:289 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (defe3f5f066ed6a2982078b4498cf3a2)] -> link text: Log in]
+2024-12-14 15:12:323 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (2baa1ccee386d4474202ff4a02177eef)] -> link text: Log in]
+2024-12-14 15:12:382 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (2baa1ccee386d4474202ff4a02177eef)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:335 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (b3cee20dc357b6c2b907cd513226a3bf)] -> link text: Log in]
+2024-12-14 16:12:397 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (b3cee20dc357b6c2b907cd513226a3bf)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:89 WARN  FileSystemFontProvider :607 - New fonts found, font cache will be re-built
+2024-12-14 16:12:90 WARN  FileSystemFontProvider :360 - Building on-disk font cache, this may take a while
+2024-12-14 16:12:219 WARN  FileSystemFontProvider :363 - Finished building on-disk font cache, found 452 fonts
+2024-12-14 16:12:241 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (768ce0a626c455efe6f57e7d94d947dd)] -> link text: Log in]
+2024-12-14 16:12:353 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (768ce0a626c455efe6f57e7d94d947dd)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:635 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (78f96993ed506bcaf863d634e87d8991)] -> link text: Log in]
+2024-12-14 16:12:694 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (78f96993ed506bcaf863d634e87d8991)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:179 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (d2d1020fadadb32a3a22143540336415)] -> link text: Log in]
+2024-12-14 16:12:521 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (eb9eb4910bd382ae15bc1597e5846622)] -> link text: Log in]
+2024-12-14 16:12:641 INFO  LoginPage :39 - Getting text from : [[ChromeDriver: chrome on windows (eb9eb4910bd382ae15bc1597e5846622)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 16:12:183 INFO  HomePage :32 - Clicking on login link : [[ChromeDriver: chrome on windows (6e17acdd95e2016c1ced47dddce3b141)] -> link text: Log in]
+2024-12-16 10:12:191 INFO  LoginPage :57 - Click on loginButton
+2024-12-16 10:12:408 INFO  LoginPage :57 - Click on loginButton
+2024-12-17 10:12:606 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:45 INFO  HomePage :45 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 10:12:207 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:951 INFO  HomePage :52 - Enter EmailId 'hardikp2812@gmail.com' to email field : 
+2024-12-17 10:12:128 INFO  HomePage :59 - Enter Password 'patel0009' to password field : 
+2024-12-17 10:12:451 INFO  HomePage :66 - Click on loginButton
+2024-12-17 10:12:672 INFO  HomePage :72 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:777 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:389 INFO  HomePage :52 - Enter EmailId 'hardikp28@gmail.com' to email field : 
+2024-12-17 10:12:509 INFO  HomePage :59 - Enter Password 'patel12345' to password field : 
+2024-12-17 10:12:777 INFO  HomePage :66 - Click on loginButton
+2024-12-17 10:12:956 INFO  HomePage :72 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:292 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:876 INFO  HomePage :52 - Enter EmailId 'hardikp123@gmail.com' to email field : 
+2024-12-17 10:12:998 INFO  HomePage :59 - Enter Password 'patel7878' to password field : 
+2024-12-17 10:12:255 INFO  HomePage :66 - Click on loginButton
+2024-12-17 10:12:398 INFO  HomePage :72 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:524 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:00 INFO  HomePage :80 - Get registerText : Register
+2024-12-17 10:12:219 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:733 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:259 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:906 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:667 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:303 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:271 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:949 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:388 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:33 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:759 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:509 INFO  HomePage :52 - Enter EmailId 'hardik2812@gmail.com' to email field : 
+2024-12-17 10:12:624 INFO  HomePage :59 - Enter Password 'Hardik@7777' to password field : 
+2024-12-17 10:12:707 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:497 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:16 INFO  HomePage :45 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 10:12:292 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:862 INFO  HomePage :52 - Enter EmailId 'hardikp2812@gmail.com' to email field : 
+2024-12-17 10:12:984 INFO  HomePage :59 - Enter Password 'patel0009' to password field : 
+2024-12-17 10:12:411 INFO  HomePage :66 - Click on loginButton
+2024-12-17 10:12:478 INFO  HomePage :72 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:843 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:525 INFO  HomePage :52 - Enter EmailId 'hardikp28@gmail.com' to email field : 
+2024-12-17 10:12:731 INFO  HomePage :59 - Enter Password 'patel12345' to password field : 
+2024-12-17 10:12:108 INFO  HomePage :66 - Click on loginButton
+2024-12-17 10:12:304 INFO  HomePage :72 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:481 INFO  HomePage :52 - Click on loginLink : Log in
+2024-12-17 10:12:92 INFO  HomePage :52 - Enter EmailId 'hardikp123@gmail.com' to email field : 
+2024-12-17 10:12:232 INFO  HomePage :59 - Enter Password 'patel7878' to password field : 
+2024-12-17 10:12:615 INFO  HomePage :66 - Click on loginButton
+2024-12-17 10:12:673 INFO  HomePage :72 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-12-17 10:12:832 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:426 INFO  HomePage :80 - Get registerText : Register
+2024-12-17 10:12:490 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:225 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:13 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:579 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:256 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:921 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:419 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:971 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:659 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:300 INFO  HomePage :138 - Click on 'REGISTER' button
+2024-12-17 10:12:779 INFO  HomePage :65 - Click on registerLink : Register
+2024-12-17 10:12:419 INFO  HomePage :52 - Enter EmailId 'hardik2812@gmail.com' to email field : 
+2024-12-17 10:12:526 INFO  HomePage :59 - Enter Password 'Hardik@7777' to password field : 
+2024-12-17 10:12:619 INFO  HomePage :138 - Click on 'REGISTER' button
